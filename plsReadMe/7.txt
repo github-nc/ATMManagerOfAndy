@@ -1,6 +1,0 @@
-Product Version: Apache NetBeans IDE 12.3
-Java: 15.0.1; Java HotSpot(TM) 64-Bit Server VM 15.0.1+9-18
-Runtime: Java(TM) SE Runtime Environment 15.0.1+9-18
-System: Mac OS X version 10.15.7 running on x86_64; UTF-8; en_JP (nb)
-User directory: /Users/andx/Library/Application Support/NetBeans/12.3
-Cache directory: /Users/andx/Library/Caches/NetBeans/12.3
